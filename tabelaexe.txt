@@ -1,0 +1,13 @@
+<html>
+<table border=1>
+<tr bgcolor=cyan>
+<td>Dia</td> <td>Tempo</td> <td>Graus</td>
+</tr>
+<td>Sexta</td> <td> <img src="sol pleno.jpg" width="120" height="100"><td>40</td>
+</tr>
+<td>Sábado</td> <td><img src="sol entre nuvens.jpg" width="120" height="100"><td>30</td>
+</tr>
+<td>Domingo</td> <td><img src="chuva forte.jpg" width="120" height="100"></td><td>20</td>
+</tr>
+<table>
+</html>
