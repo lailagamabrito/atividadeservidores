@@ -1,0 +1,18 @@
+<html>
+<table border=1>
+<tr bgcolor=cyan>
+<meta charset="UTF-8">
+<td>Dia</td> <td>Tempo</td> <td>Graus</td>
+</tr>
+
+<td>Sexta</td> <td><center><img src=sol pleno.jpeg width=50></center></td> <td>27</td>
+</tr>
+
+<td>Sábado</td> <td><center><img src=sol entre nuvens.jpeg width=50></center> <td>30</td>
+</tr>
+
+<td>Domingo</td> <td><center><img src=chuva forte.jpeg width=50></center> <td>20</td>
+</tr>
+<table>
+
+</html>
